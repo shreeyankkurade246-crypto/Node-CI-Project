@@ -1,1 +1,1 @@
-This is my Git practical.
+This is the modified Git practical file.
